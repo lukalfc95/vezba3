@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AutoOglas>
+<Automobil>
+<Proizvodjac>Honda</Proizvodjac>
+<Model tip="Type S">Accord</Model>
+<Godiste>2009</Godiste>
+<Farba tip="metalik">Siva</Farba>
+<Zapremina_motora jedinica="ccm">2400</Zapremina_motora>
+<Transmisija tip="manuelni">5</Transmisija>
+<Gorivo tng="ne">Benzin</Gorivo>
+<Cena valuta="din">200000</Cena>
+<Kontakt>Petar Petrović pp@posta.rs</Kontakt>
+</Automobil>
+<Automobil>
+<Proizvodjac>Renault</Proizvodjac>
+<Model tip="Expression">Fluence</Model>
+<Godiste>2010</Godiste>
+<Farba tip="metalik">Crna</Farba>
+<Zapremina_motora jedinica="l">1.6</Zapremina_motora>
+<Transmisija tip="manuelni">6</Transmisija>
+<Gorivo tng="ne">Benzin</Gorivo>
+<Cena valuta="eur">15000</Cena>
+<Kontakt>Mirko Mirković mm@posta.rs</Kontakt>
+</Automobil>
+</AutoOglas>

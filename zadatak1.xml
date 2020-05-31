@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MojiPodaci>
+	<PunoIme>
+		<Ime>Luka</Ime>
+		<Prezime>Ivanovic</Prezime>
+	</PunoIme>
+	<DatumRodjenja>
+		<Dan>7</Dan>
+		<mesec>6</mesec>
+		<godina>1995</godina>
+	</DatumRodjenja>
+	<Adresa>
+		<Ulica>Dusana Vlajica 24</Ulica>
+		<Naselje>Zarkovo</Naselje>
+		<Grad>Beograd</Grad>
+		<Drzava>Srbija</Drzava>
+		<ptt>11000</ptt>
+	</Adresa>
+</MojiPodaci>
